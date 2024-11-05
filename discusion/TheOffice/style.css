@@ -1,0 +1,56 @@
+/* Estilos generales */
+body {
+    background-color: #333; /* Fondo oscuro */
+    color: #EEE; /* Texto claro */
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+header {
+    text-align: center;
+    background-color: #444;
+    padding: 20px 0;
+}
+
+header h1 {
+    color: #FFD700; /* Título en color dorado */
+}
+
+/* Sección */
+section {
+    padding: 20px;
+}
+
+section h2 {
+    color: #FFA500; /* Títulos secundarios en naranja */
+    border-bottom: 2px solid #FFA500;
+    margin-bottom: 10px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+/* Lista de temporadas y personajes */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Imágenes */
+img {
+    display: block;
+    margin: 10px auto;
+    border: 2px solid #555;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    background-color: #222;
+    color: #CCC;
+    padding: 10px 0;
+}
