@@ -16,11 +16,10 @@ body{
     margin: auto;
 }
 
-#tablero .filaImpar p:nth-child(2n+1){
-    background-color: white;
-}
+#tablero .filaImpar p{
+    color: gray;
+    }
 
-#tablero .filaPar p:nth-child(2n) {
-    background-color: white
-    ;
+#tablero .filaPar p {
+    color: black;
 }
